@@ -24,7 +24,7 @@
 ### ✏️ I'd studied at...
 ***
 * <b>Graduate School of Data Science, Seoul National University</b>, Master of Data Science (Mar, 2022 ~ )
-* <b>Seoul National University</b>, English Literature and Language (Mar, 2010 ~ Feb, 2019)
+* <b>Seoul National University</b>, English Language and Literature (Mar, 2010 ~ Feb, 2019)
 <br><br><br>
 ### 🔍 I've completed following...
 ***
@@ -32,7 +32,7 @@
 <br><br><br>
 ### 💼 I'd worked at...
 ***
-* <b>AIZEN GLOBAL </b>, Manager (Jul, 2021 ~ Feb, 2022)
+* <b>AIZEN GLOBAL</b>, Manager (Jul, 2021 ~ Feb, 2022)
 
 
 ### ✉️ Contact me: lotusist10@snu.ac.kr
