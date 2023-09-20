@@ -4,11 +4,11 @@
 ![](https://img.shields.io/badge/Tensorflow-white?style=flat&logo=Tensorflow&logoColor=white&color=FF6F00)
 ![](https://img.shields.io/badge/PyTorch-white?style=flat&logo=PyTorch&logoColor=white&color=EE4C2C)
 ![](https://img.shields.io/badge/Keras-white?style=flat&logo=Keras&logoColor=white&color=D00000)<br>
-![](https://img.shields.io/badge/javascript-white?style=flat&logo=javascript&logoColor=white&color=3776AB)<br>
+![](https://img.shields.io/badge/javascript-white?style=flat&logo=javascript&logoColor=white&color=yellow)<br>
 ![](https://img.shields.io/badge/html5-white?style=flat&logo=html5&logoColor=white&color=#E34F26)
 ![](https://img.shields.io/badge/css3-white?style=flat&logo=css3&logoColor=white&color=#E34F26)<br>
 ![](https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL&logoColor=white&color=4479A1)
-![](https://img.shields.io/badge/LINUX-white?style=flat&logo=linux&logoColor=black&color=black)
+![](https://img.shields.io/badge/LINUX-white?style=flat&logo=linux&logoColor=white&color=black)
 
 
 ### 🔥 I'm currently working on...
