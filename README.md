@@ -20,7 +20,7 @@
 * <b>[Route Planning, Visual Analytics]</b> 지능형 해상교통정보시스템 안정화 사업 (관습항로 생성 및 조회 시스템) (Jul, 2022 ~ Mar, 2023)
 * <b>[Statistical Analysis, Spatio-Temporal data]</b> 해사데이터 기반 해양사고 위험요인 분석 (Jul, 2022 ~ Dec, 2022)
 * <b>[Anomaly Detection, Clustering]</b> Paygate 자금세탁방지를 위한 이상거래탐지 비지도학습 모델 개발 (Jun, 2021 ~ Jul, 2021)
-* ... And small toy projects on Computer Vision (Anormaly Detection), Data Visualization (Dashboard for Financial Market Trend)
+* ... And small toy projects on Computer Vision (Anormaly Detection), Data Visualization (Dashboard for Financial Market Trend), etc.
 <br><br><br>
 
 ### ✏️ I'd studied at...
