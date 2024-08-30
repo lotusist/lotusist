@@ -31,7 +31,7 @@
 
 ### 💼 I'd worked at...
 ***
-* <b>AIZEN GLOBAL</b>, Manager (Jul, 2021 ~ Feb, 2022)
+* <b>AIZEN</b>, Manager (Jul, 2021 ~ Feb, 2022)
 <br><br><br>
 
 ### 🔍 I've also experienced...
@@ -40,4 +40,4 @@
 <br><br><br>
 
 
-### ✉️ Contact me: lotusist@naver.com | Resume : [Link](https://lotusist.github.io/index.html)
+### ✉️ Contact me: lotusist@naver.com |  Resume : [Link](https://lotusist.github.io/resume.html)
