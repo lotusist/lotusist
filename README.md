@@ -40,4 +40,4 @@
 <br><br><br>
 
 
-### ✉️ Contact me: lotusist@naver.com |  Resume : [Link](https://lotusist.github.io/resume.html)
+### ✉️ Contact me: lotusist@naver.com |  [Resume](https://lotusist.github.io/resume.html)
