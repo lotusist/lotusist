@@ -1,9 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Seungju Lee
 
 ![](https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=white&color=3776AB)<br>
-![](https://img.shields.io/badge/Tensorflow-white?style=flat&logo=Tensorflow&logoColor=white&color=FF6F00)
-![](https://img.shields.io/badge/PyTorch-white?style=flat&logo=PyTorch&logoColor=white&color=EE4C2C)
-![](https://img.shields.io/badge/Keras-white?style=flat&logo=Keras&logoColor=white&color=D00000)<br>
+![](https://img.shields.io/badge/PyTorch-white?style=flat&logo=PyTorch&logoColor=white&color=EE4C2C)<br>
 ![](https://img.shields.io/badge/javascript-white?style=flat&logo=javascript&logoColor=white&color=yellow)<br>
 ![](https://img.shields.io/badge/html5-white?style=flat&logo=html5&logoColor=white&color=#E34F26)
 ![](https://img.shields.io/badge/css3-white?style=flat&logo=css3&logoColor=white&color=#E34F26)<br>
