@@ -24,7 +24,7 @@
 ### ✏️ I'd studied at...
 ***
 * <b>Graduate School of Data Science, Seoul National University</b>, Master of Data Science (Mar, 2022 ~ Aug, 2024)
-* <b>Seoul National University</b>, English Language and Literature (Mar, 2010 ~ Feb, 2019)
+* <b>Seoul National University</b>, B.A. in English Language and Literature (Mar, 2010 ~ Feb, 2019)
 <br><br><br>
 
 ### 💼 I'd worked at...
